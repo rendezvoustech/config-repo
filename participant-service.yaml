@@ -1,0 +1,2 @@
+rendezvous:
+  greeting: "Welcome to the participant service from the config server"
